@@ -27,6 +27,8 @@ We need to do a couple odd things here - iOS will not let you play sounds until 
       <source id="sound" src="StreamingAssets/sfx/500-milliseconds-of-silence.mp3" type="audio/mpeg" codecs="mp3">
       Your browser does not support the audio element.
     </audio>
+    
+    <button onclick="start()">Start</button>
 ```
 
 ## Step 3, Prepare the JavaScript plugin
