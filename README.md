@@ -1,9 +1,11 @@
 # UnityMobileWebAudioExample
 Use Javascript and Unity to play audio, even on iOS and Android devices.
 
+Unity is an excellent tool, but exporting to WebGL to play on mobile devices is still an incomplete feature. One of the most challenging issues with playing a WebGL game or app on mobile, especially iOS, is getting the sound to work. This example will display how to play sounds on mobile devices using browser based JavaScript while still utilizing Unity's WebGL export option.
+
 See a playable example here (featuring fun bouncy animals): http://www.danjorquera.com/unitywebaudioexample/
 
-Unity is an excellent tool, but exporting to WebGL to play on mobile devices is still an incomplete feature. One of the most challenging issues with playing a WebGL game or app on mobile, especially iOS, is getting the sound to work. This example will display how to play sounds on mobile devices using browser based JavaScript while still utilizing Unity's WebGL export option.
+![alt text](http://www.danjorquera.com/unitywebaudioexample/animal-sounds.png)
 
 ## Step 1, Prepare the Sounds
 
